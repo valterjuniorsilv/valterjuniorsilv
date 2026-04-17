@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F59E0B&height=120&section=header&text=Valter%20Silva&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Founder%20%7C%20Builder%20%7C%20Maringá%2C%20PR&descAlignY=58&descSize=16" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=F59E0B&center=true&vCenter=true&multiline=false&width=600&lines=Construindo+o+ecossistema+NodusHub+%F0%9F%8F%97%EF%B8%8F;Tráfego+%2B+IA+%2B+CRM+%E2%80%94+Stack+de+Aquisição;Founder+que+programa+e+vende;Na+arena%2C+não+nas+arquibancadas" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=F59E0B&center=true&vCenter=true&width=600&lines=Construindo+o+ecossistema+NodusHub;Trafego+%2B+IA+%2B+CRM+%7C+Stack+de+Aquisicao;Founder+que+programa+e+vende;Na+arena%2C+nao+nas+arquibancadas" alt="Typing SVG" />
 
 </div>
 
