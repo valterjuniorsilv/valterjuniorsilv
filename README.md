@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="Valter Silva — Founder & Builder" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=52&duration=3000&pause=800&color=C9920A&center=true&vCenter=true&width=900&height=80&lines=Valter+Silva" alt="Valter Silva" />
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=800&color=F59E0B&center=true&vCenter=true&width=600&lines=Construindo+o+ecossistema+NodusHub;Trafego+%2B+Atendente+de+IA+%2B+CRM;Do+anuncio+ao+cliente+fechado;Na+arena%2C+nao+nas+arquibancadas" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=200&size=16&duration=4000&pause=1000&color=888888&center=true&vCenter=true&width=700&lines=NODUSHUB+%E2%80%94+Fundador+%26+Builder;Na+arena%2C+nao+nas+arquibancadas" alt="subtitle" />
 
 </div>
 
@@ -37,11 +35,11 @@ Background em marketing de verdade (gestor de tráfego, estrategista, head de co
 
 | Produto | Status |
 |---------|--------|
-| **[Nodus Mine](https://mine.nodushub.com.br)** — Analytics de anúncios com IA | 🟢 Live |
-| **[Nodus Lode](https://lode.nodushub.com.br)** — Gestão Meta Ads com IA | 🟢 Live |
-| **[Creator Studio](https://creator.nodushub.com.br)** — Conteúdo visual para IG | 🟢 Live |
-| **[Nodus Finance](https://finance.nodushub.com.br)** — Coach financeiro com IA | 🟢 Live |
-| **Atendente de IA** — WhatsApp 24/7 para PMEs | 🔨 Building |
+| **[Nodus Mine](https://mine.nodushub.com.br)** — Analytics de anúncios com IA | Live |
+| **[Nodus Lode](https://lode.nodushub.com.br)** — Gestão Meta Ads com IA | Live |
+| **[Creator Studio](https://creator.nodushub.com.br)** — Conteúdo visual para IG | Live |
+| **[Nodus Finance](https://finance.nodushub.com.br)** — Coach financeiro com IA | Live |
+| **Atendente de IA** — WhatsApp 24/7 para PMEs | Building |
 
 </td>
 </tr>
@@ -63,14 +61,14 @@ Background em marketing de verdade (gestor de tráfego, estrategista, head de co
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=valterjuniorsilv&show_icons=true&theme=dark&bg_color=09090b&border_color=F59E0B&icon_color=F59E0B&title_color=F59E0B&text_color=a1a1aa&count_private=true&hide_border=false" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valterjuniorsilv&layout=compact&theme=dark&bg_color=09090b&border_color=F59E0B&title_color=F59E0B&text_color=a1a1aa&hide_border=false&langs_count=6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=valterjuniorsilv&show_icons=true&theme=dark&bg_color=09090b&border_color=C9920A&icon_color=C9920A&title_color=C9920A&text_color=a1a1aa&count_private=true&hide_border=false" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valterjuniorsilv&layout=compact&theme=dark&bg_color=09090b&border_color=C9920A&title_color=C9920A&text_color=a1a1aa&hide_border=false&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=valterjuniorsilv&theme=dark&background=09090b&border=F59E0B&stroke=F59E0B&ring=F59E0B&fire=ffffff&currStreakNum=ffffff&sideNums=a1a1aa&currStreakLabel=F59E0B&sideLabels=a1a1aa&dates=a1a1aa" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=valterjuniorsilv&theme=dark&background=09090b&border=C9920A&stroke=C9920A&ring=C9920A&fire=ffffff&currStreakNum=ffffff&sideNums=a1a1aa&currStreakLabel=C9920A&sideLabels=a1a1aa&dates=a1a1aa" />
 
 </div>
 
@@ -93,9 +91,9 @@ Background em marketing de verdade (gestor de tráfego, estrategista, head de co
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/@valterjuniorsilv-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/valterjuniorsilv)
-[![Site](https://img.shields.io/badge/nodushub.com.br-F59E0B?style=for-the-badge&logo=vercel&logoColor=black)](https://nodushub.com.br)
+[![Site](https://img.shields.io/badge/nodushub.com.br-C9920A?style=for-the-badge&logo=vercel&logoColor=black)](https://nodushub.com.br)
 [![WhatsApp](https://img.shields.io/badge/Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5544920034578)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F59E0B&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C9920A&height=80&section=footer" width="100%"/>
 
 </div>
