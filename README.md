@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=52&duration=3000&pause=800&color=C9920A&center=true&vCenter=true&width=900&height=80&lines=Valter+Silva" alt="Valter Silva" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C9920A&height=220&section=header&text=Valter%20Silva&fontSize=72&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=NodusHub%20%E2%80%94%20Founder%20%26%20Builder&descAlignY=65&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=200&size=16&duration=4000&pause=1000&color=888888&center=true&vCenter=true&width=700&lines=NODUSHUB+%E2%80%94+Fundador+%26+Builder;Na+arena%2C+nao+nas+arquibancadas" alt="subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=800&color=C9920A&center=true&vCenter=true&width=600&lines=Construindo+o+ecossistema+NodusHub;Trafego+%2B+Atendente+de+IA+%2B+CRM;Do+anuncio+ao+cliente+fechado;Na+arena%2C+nao+nas+arquibancadas" alt="Typing SVG" />
 
 </div>
 
