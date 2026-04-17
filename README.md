@@ -60,8 +60,8 @@ Não vendo teoria. Vendo sistema.
 ## Foco agora
 
 - Crescimento do ecossistema NodusHub (Mine + Lode + AlissIA)
-- Stack de Aquisição para nichos: nail design + odontologia
-- Escala com tráfego pago + IA no atendimento + CRM
+- Stack de Aquisicao para PMEs — Trafego + AlissIA (atendente WhatsApp) + CRM
+- Do anuncio ao cliente fechado: gestao Meta Ads + IA no atendimento + pipeline de vendas
 
 ---
 
