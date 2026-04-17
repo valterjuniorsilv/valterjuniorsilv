@@ -1,12 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F59E0B&height=120&section=header&text=Valter%20Silva&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Founder%20%7C%20Builder%20%7C%20Maringá%2C%20PR&descAlignY=58&descSize=16" width="100%"/>
+<img src="./banner.png" width="100%" alt="Valter Silva — Founder & Builder" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=F59E0B&center=true&vCenter=true&width=600&lines=Construindo+o+ecossistema+NodusHub;Trafego+%2B+IA+%2B+CRM+%7C+Stack+de+Aquisicao;Founder+que+programa+e+vende;Na+arena%2C+nao+nas+arquibancadas" alt="Typing SVG" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=800&color=F59E0B&center=true&vCenter=true&width=600&lines=Construindo+o+ecossistema+NodusHub;Trafego+%2B+Atendente+de+IA+%2B+CRM;Do+anuncio+ao+cliente+fechado;Na+arena%2C+nao+nas+arquibancadas" alt="Typing SVG" />
 
 </div>
 
 ---
+
+<table>
+<tr>
+<td valign="top" width="55%">
 
 ## Quem sou
 
@@ -14,19 +20,32 @@ Fundador da **[NodusHub](https://nodushub.com.br)** — construo ferramentas de 
 
 Background em marketing de verdade (gestor de tráfego, estrategista, head de comunicação). Aprendi a programar pra parar de depender de outros. Hoje combino os dois mundos.
 
-Não vendo teoria. Vendo sistema.
+**Não vendo teoria. Vendo sistema.**
 
----
+<br/>
+
+## Foco agora
+
+- Stack de Aquisição para PMEs
+- Tráfego Meta Ads + Atendente de IA no WhatsApp + CRM
+- Do anúncio ao cliente fechado
+
+</td>
+<td valign="top" width="45%">
 
 ## O que estou construindo
 
-| Produto | O que é | Status |
-|---------|---------|--------|
-| **[Nodus Mine](https://mine.nodushub.com.br)** | Analytics de anúncios com IA — analisa criativos de concorrentes | 🟢 Live |
-| **[Nodus Lode](https://lode.nodushub.com.br)** | Gestão de campanhas Meta Ads com IA | 🟢 Live |
-| **[Creator Studio](https://creator.nodushub.com.br)** | Gerador de conteúdo visual para Instagram | 🟢 Live |
-| **[Nodus Finance](https://finance.nodushub.com.br)** | Controle financeiro pessoal com coach de IA | 🟢 Live |
-| **AlissIA** | Atendente de IA para WhatsApp (nail/odonto) | 🔨 Building |
+| Produto | Status |
+|---------|--------|
+| **[Nodus Mine](https://mine.nodushub.com.br)** — Analytics de anúncios com IA | 🟢 Live |
+| **[Nodus Lode](https://lode.nodushub.com.br)** — Gestão Meta Ads com IA | 🟢 Live |
+| **[Creator Studio](https://creator.nodushub.com.br)** — Conteúdo visual para IG | 🟢 Live |
+| **[Nodus Finance](https://finance.nodushub.com.br)** — Coach financeiro com IA | 🟢 Live |
+| **Atendente de IA** — WhatsApp 24/7 para PMEs | 🔨 Building |
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -44,8 +63,8 @@ Não vendo teoria. Vendo sistema.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=valterjuniorsilv&show_icons=true&theme=dark&bg_color=09090b&border_color=F59E0B&icon_color=F59E0B&title_color=F59E0B&text_color=a1a1aa&hide_border=false&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valterjuniorsilv&layout=compact&theme=dark&bg_color=09090b&border_color=F59E0B&title_color=F59E0B&text_color=a1a1aa&hide_border=false&langs_count=6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=valterjuniorsilv&show_icons=true&theme=dark&bg_color=09090b&border_color=F59E0B&icon_color=F59E0B&title_color=F59E0B&text_color=a1a1aa&count_private=true&hide_border=false" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valterjuniorsilv&layout=compact&theme=dark&bg_color=09090b&border_color=F59E0B&title_color=F59E0B&text_color=a1a1aa&hide_border=false&langs_count=6" />
 
 </div>
 
@@ -57,11 +76,17 @@ Não vendo teoria. Vendo sistema.
 
 ---
 
-## Foco agora
+## Contribuições
 
-- Crescimento do ecossistema NodusHub (Mine + Lode + AlissIA)
-- Stack de Aquisicao para PMEs — Trafego + Atendente de IA no WhatsApp + CRM
-- Do anuncio ao cliente fechado: gestao Meta Ads + IA no atendimento + pipeline de vendas
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valterjuniorsilv/valterjuniorsilv/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valterjuniorsilv/valterjuniorsilv/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/valterjuniorsilv/valterjuniorsilv/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
 
 ---
 
