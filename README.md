@@ -61,14 +61,14 @@ Background em marketing de verdade (gestor de tráfego, estrategista, head de co
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=valterjuniorsilv&show_icons=true&theme=dark&bg_color=09090b&border_color=C9920A&icon_color=C9920A&title_color=C9920A&text_color=a1a1aa&count_private=true&hide_border=false" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valterjuniorsilv&layout=compact&theme=dark&bg_color=09090b&border_color=C9920A&title_color=C9920A&text_color=a1a1aa&hide_border=false&langs_count=6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=valterjuniorsilv&show_icons=true&theme=dark&bg_color=1C1917&border_color=AEAAA4&icon_color=C9920A&title_color=F5F0E8&text_color=C8C4BE&count_private=true&hide_border=false" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valterjuniorsilv&layout=compact&theme=dark&bg_color=1C1917&border_color=AEAAA4&title_color=F5F0E8&text_color=C8C4BE&hide_border=false&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=valterjuniorsilv&theme=dark&background=09090b&border=C9920A&stroke=C9920A&ring=C9920A&fire=ffffff&currStreakNum=ffffff&sideNums=a1a1aa&currStreakLabel=C9920A&sideLabels=a1a1aa&dates=a1a1aa" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=valterjuniorsilv&theme=dark&background=1C1917&border=AEAAA4&stroke=AEAAA4&ring=C9920A&fire=C9920A&currStreakNum=F5F0E8&sideNums=C8C4BE&currStreakLabel=F5F0E8&sideLabels=C8C4BE&dates=A4A09A" />
 
 </div>
 
