@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=EDE8DC&height=220&section=header&text=Valter%20Silva&fontSize=60&fontColor=1A1A1A&fontAlignY=40&desc=Na%20arena%2C%20nao%20nas%20arquibancadas&descSize=20&descAlignY=62&descColor=3A3530&descFontFamily=Dancing%20Script" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B8B4AE&height=220&section=header&text=Valter%20Silva&fontSize=60&fontColor=F0EBE0&fontAlignY=40&desc=Na%20arena%2C%20nao%20nas%20arquibancadas%20%F0%9F%8F%B4&descSize=20&descAlignY=62&descColor=F0EBE0&descFontFamily=Dancing%20Script" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=800&color=C9920A&center=true&vCenter=true&width=600&lines=Construindo+o+ecossistema+NodusHub;Trafego+%2B+Atendente+de+IA+%2B+CRM;Do+anuncio+ao+cliente+fechado;Na+arena%2C+nao+nas+arquibancadas" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=800&color=EDE8DC&center=true&vCenter=true&width=600&lines=Construindo+o+ecossistema+NodusHub;Trafego+%2B+Atendente+de+IA+%2B+CRM;Do+anuncio+ao+cliente+fechado;Na+arena%2C+nao+nas+arquibancadas" alt="Typing SVG" />
 
 </div>
 
@@ -94,6 +94,6 @@ Background em marketing de verdade (gestor de tráfego, estrategista, head de co
 [![Site](https://img.shields.io/badge/nodushub.com.br-C9920A?style=for-the-badge&logo=vercel&logoColor=black)](https://nodushub.com.br)
 [![WhatsApp](https://img.shields.io/badge/Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5544920034578)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=EDE8DC&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B8B4AE&height=80&section=footer" width="100%"/>
 
 </div>
