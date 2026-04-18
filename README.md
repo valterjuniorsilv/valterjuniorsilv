@@ -90,7 +90,7 @@ Background em marketing de verdade (gestor de tráfego, estrategista, head de co
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/@valterjuniorsilv-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/valterjuniorsilv)
+[![Instagram](https://img.shields.io/badge/@valterjuniorsilv-AEAAA4?style=for-the-badge&logo=instagram&logoColor=1C1917)](https://instagram.com/valterjuniorsilv)
 [![Site](https://img.shields.io/badge/nodushub.com.br-C9920A?style=for-the-badge&logo=vercel&logoColor=black)](https://nodushub.com.br)
 [![WhatsApp](https://img.shields.io/badge/Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5544920034578)
 
