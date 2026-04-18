@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B8B4AE&height=220&section=header&text=VALTER%20SILVA&fontSize=58&fontColor=F5F0E8&fontAlignY=40&fontFamily=Archivo%20Black&desc=Na%20arena%2C%20nao%20nas%20arquibancadas%20%F0%9F%8F%B4&descSize=22&descAlignY=63&descColor=F5F0E8&descFontFamily=Cormorant%20Garamond" width="100%" />
+<img src="./banner.png" width="100%" alt="Valter Silva" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=800&color=EDE8DC&center=true&vCenter=true&width=600&lines=Construindo+o+ecossistema+NodusHub;Trafego+%2B+Atendente+de+IA+%2B+CRM;Do+anuncio+ao+cliente+fechado;Na+arena%2C+nao+nas+arquibancadas" alt="Typing SVG" />
 
