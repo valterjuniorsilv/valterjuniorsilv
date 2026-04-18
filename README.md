@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="Valter Silva" />
+<img src="./banner-v9.png" width="100%" alt="Valter Silva" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=800&color=EDE8DC&center=true&vCenter=true&width=600&lines=Construindo+o+ecossistema+NodusHub;Trafego+%2B+Atendente+de+IA+%2B+CRM;Do+anuncio+ao+cliente+fechado;Na+arena%2C+nao+nas+arquibancadas" alt="Typing SVG" />
 
