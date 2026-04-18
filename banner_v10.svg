@@ -27,7 +27,7 @@
     x="600" y="155"
     font-family="LB, 'Times New Roman', serif"
     font-weight="bold"
-    font-size="130"
+    font-size="100"
     fill="#F5F0E8"
     text-anchor="middle"
     dominant-baseline="middle"
@@ -46,7 +46,7 @@
     fill-opacity="0.85"
     text-anchor="middle"
     dominant-baseline="middle"
-  >Na arena, nao nas arquibancadas</text>
+  >Na arena, não nas arquibancadas</text>
 
   <!-- Wave layer 1 (darker, back) -->
   <path fill="#09090b" fill-opacity="0.55">
