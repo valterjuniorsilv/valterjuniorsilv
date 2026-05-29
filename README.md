@@ -54,8 +54,8 @@ Background em marketing de verdade (gestor de tráfego, estrategista, head de co
 | **[claude-skills](https://github.com/valterjuniorsilv/claude-skills)** | 13 skills custom pro Claude Code — brutal honesty mode, pipeline de copy PT-BR anti-IA, continuidade entre sessões |
 | **[nodus-agents](https://github.com/valterjuniorsilv/nodus-agents)** | 8 agents Claude Code que rodam a operação real da NodusHub (engineering + commercial) |
 | **[antigravity-lab](https://github.com/valterjuniorsilv/antigravity-lab)** | Go backend laboratory — Clean Architecture + DDD + CQRS reference implementation |
-
-> Próximos: `claude-whatsapp-template` (N8N + Evolution + Claude boilerplate), `local-business-prospector` (scraper + qualifier para PMEs locais).
+| **[claude-whatsapp-template](https://github.com/valterjuniorsilv/claude-whatsapp-template)** | Production boilerplate de bot WhatsApp — Claude + N8N + Evolution API + Redis + Postgres |
+| **[local-business-prospector](https://github.com/valterjuniorsilv/local-business-prospector)** | Prospector B2B multi-nicho — Maps + email/IG/Ads + score Claude. ~$0.50/1000 leads.
 
 ---
 
