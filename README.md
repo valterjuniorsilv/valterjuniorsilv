@@ -47,6 +47,16 @@ Background em marketing de verdade (gestor de tráfego, estrategista, head de co
 
 ---
 
+## Open Source
+
+| Repo | O que é |
+|---|---|
+| **[claude-skills](https://github.com/valterjuniorsilv/claude-skills)** | 13 skills custom pro Claude Code nascidas na operação real da NodusHub — brutal honesty mode, pipeline de copy PT-BR anti-IA, continuidade entre sessões |
+
+> Mais a caminho: `nodus-agents` (agency-style multi-agent system), `claude-whatsapp-template` (N8N + Evolution + Claude boilerplate), `antigravity-lab` (Go + Clean Arch + DDD).
+
+---
+
 ## Stack
 
 <div align="center">
