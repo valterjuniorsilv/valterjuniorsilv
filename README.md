@@ -96,6 +96,6 @@ Built the stack from scratch (Next.js, FastAPI, n8n, Anthropic, Supabase, Evolut
   <img alt="snake animation" src="https://raw.githubusercontent.com/valterjuniorsilv/valterjuniorsilv/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B8B4AE&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2A1D16&height=70&section=footer" width="100%"/>
 
 </div>
