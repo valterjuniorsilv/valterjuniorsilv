@@ -2,60 +2,47 @@
 
 <img src="./banner_v10.svg" width="100%" alt="Valter Silva" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=800&color=EDE8DC&center=true&vCenter=true&width=600&lines=Construindo+o+ecossistema+NodusHub;Tr%C3%A1fego+%2B+Atendente+de+IA+%2B+CRM;Do+an%C3%BAncio+ao+cliente+fechado;Na+arena%2C+n%C3%A3o+nas+arquibancadas" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2800&pause=800&color=EDE8DC&center=true&vCenter=true&width=620&lines=AI+Automation+Engineer;n8n+%C2%B7+Claude+%C2%B7+FastAPI+%C2%B7+Next.js;Marketing+background%2C+now+shipping+systems;Open+to+remote+roles" alt="Typing SVG" />
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td valign="top" width="55%">
+## About
 
-## Quem sou
+10 anos em marketing digital. Os últimos 4 cuidando de tráfego pago e operação comercial pra clínicas odontológicas no Brasil. Aprendi a programar pra parar de depender de quem nunca entendeu o que eu precisava entregar.
 
-Fundador da **[NodusHub](https://nodushub.com.br)** — construo ferramentas de IA que geram resultado real para negócios.
+Hoje passo o dia construindo automação séria — n8n, Claude, FastAPI, Next.js — pra resolver fricção real de operação. O que tá aqui no GitHub é o que sobrou depois de rodar em produção.
 
-Background em marketing de verdade (gestor de tráfego, estrategista, head de comunicação). Aprendi a programar pra parar de depender de outros. Hoje combino os dois mundos.
+**Open to remote roles.** AI Automation Engineer · Workflow Engineer · Backend (Python/Node). PJ ou contractor.
 
-**Não vendo teoria. Vendo sistema.**
+---
 
-<br/>
+## Experience
 
-## Foco agora
+**Head de Comunicação & Estratégia · HP Odonto** · jun/2025 – mar/2026 · Remoto
 
-- Stack de Aquisição para PMEs
-- Tráfego Meta Ads + Atendente de IA no WhatsApp + CRM
-- Do anúncio ao cliente fechado
+- Liderança de squad de 6 (3 gestores de tráfego, 1 PM, 1 editor, 1 designer)
+- Estrategista direto de 20–25 clínicas em paralelo, faturamento mensal R$30k–R$300k cada
+- Stack: Meta Ads · Google Ads · GA4 · Looker Studio · Kommo · Claude · n8n
 
-</td>
-<td valign="top" width="45%">
+**Founder · NodusHub** · mar/2026 – present
 
-## O que estou construindo
-
-| Produto | Status |
-|---------|--------|
-| **[Nodus Mine](https://mine.nodushub.com.br)** — Analytics de anúncios com IA | Live |
-| **[Nodus Lode](https://lode.nodushub.com.br)** — Gestão Meta Ads com IA | Live |
-| **[Creator Studio](https://creator.nodushub.com.br)** — Conteúdo visual para IG | Live |
-| **[Nodus Finance](https://finance.nodushub.com.br)** — Coach financeiro com IA | Live |
-| **Atendente de IA** — WhatsApp 24/7 para PMEs | Building |
-
-</td>
-</tr>
-</table>
+- Construí stack de aquisição vertical pra clínicas odontológicas (tráfego + atendente IA WhatsApp + CRM)
+- Stack: Next.js · FastAPI · n8n · Anthropic · Supabase · Evolution API · Docker · Hetzner
+- Side project ativo enquanto procuro vaga remota — operação enxuta, sem conflito com FT
 
 ---
 
 ## Open Source
 
-| Repo | O que é |
+| Repo | What it is |
 |---|---|
-| **[claude-skills](https://github.com/valterjuniorsilv/claude-skills)** | 13 skills custom pro Claude Code — brutal honesty mode, pipeline de copy PT-BR anti-IA, continuidade entre sessões |
-| **[nodus-agents](https://github.com/valterjuniorsilv/nodus-agents)** | 8 agents Claude Code que rodam a operação real da NodusHub (engineering + commercial) |
-| **[antigravity-lab](https://github.com/valterjuniorsilv/antigravity-lab)** | Go backend laboratory — Clean Architecture + DDD + CQRS reference implementation |
-| **[claude-whatsapp-template](https://github.com/valterjuniorsilv/claude-whatsapp-template)** | Production boilerplate de bot WhatsApp — Claude + N8N + Evolution API + Redis + Postgres |
-| **[local-business-prospector](https://github.com/valterjuniorsilv/local-business-prospector)** | Prospector B2B multi-nicho — Maps + email/IG/Ads + score Claude. ~$0.50/1000 leads |
+| **[claude-skills](https://github.com/valterjuniorsilv/claude-skills)** | 13 Claude Code skills shipped from production. Brutal honesty mode, PT-BR copy pipeline, session continuity. |
+| **[claude-whatsapp-template](https://github.com/valterjuniorsilv/claude-whatsapp-template)** | Production WhatsApp bot boilerplate — Claude + n8n + Evolution API + Redis + Postgres |
+| **[local-business-prospector](https://github.com/valterjuniorsilv/local-business-prospector)** | Multi-niche B2B prospector — Google Maps + email/IG/Ads + Claude lead scoring. ~$0.50/1000 leads. |
+| **[nodus-agents](https://github.com/valterjuniorsilv/nodus-agents)** | 8 Claude Code agents structured like a small agency (engineering + commercial) |
+| **[antigravity-lab](https://github.com/valterjuniorsilv/antigravity-lab)** | Go backend reference — Clean Architecture + DDD + CQRS (design phase) |
 
 ---
 
@@ -63,9 +50,12 @@ Background em marketing de verdade (gestor de tráfego, estrategista, head de co
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,python,fastapi,go,postgres,docker,vercel,supabase&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=nextjs,react,ts,python,fastapi,go,postgres,docker,vercel,supabase&theme=dark)](https://skillicons.dev)
 
 </div>
+
+Daily: **Python · TypeScript · n8n · Claude API · FastAPI · Next.js · PostgreSQL · Docker**
+Comfortable: **Go · Supabase · Vercel · Hetzner**
 
 ---
 
@@ -86,7 +76,14 @@ Background em marketing de verdade (gestor de tráfego, estrategista, head de co
 
 ---
 
-## Contribuições
+## Contact
+
+📍 Maringá, PR · 🇧🇷 · UTC-3
+✉️ valterjuniorsilv@gmail.com
+🔗 [linkedin.com/in/valterjuniorsilv](https://linkedin.com/in/valterjuniorsilv)
+🌐 [nodushub.com.br](https://nodushub.com.br)
+
+---
 
 <div align="center">
 
@@ -95,16 +92,6 @@ Background em marketing de verdade (gestor de tráfego, estrategista, head de co
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valterjuniorsilv/valterjuniorsilv/output/github-contribution-grid-snake.svg" />
   <img alt="snake animation" src="https://raw.githubusercontent.com/valterjuniorsilv/valterjuniorsilv/output/github-contribution-grid-snake.svg" />
 </picture>
-
-</div>
-
----
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/@valterjuniorsilv-AEAAA4?style=for-the-badge&logo=instagram&logoColor=1C1917)](https://instagram.com/valterjuniorsilv)
-[![Site](https://img.shields.io/badge/nodushub.com.br-C9920A?style=for-the-badge&logo=vercel&logoColor=black)](https://nodushub.com.br)
-[![WhatsApp](https://img.shields.io/badge/Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5544920034578)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=B8B4AE&height=80&section=footer" width="100%"/>
 
