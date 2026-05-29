@@ -10,7 +10,7 @@
 
 ## About
 
-10 anos em marketing digital. Os últimos 4 cuidando de tráfego pago e operação comercial pra clínicas odontológicas no Brasil. Aprendi a programar pra parar de depender de quem nunca entendeu o que eu precisava entregar.
+5+ anos em marketing digital, com R$ 80M+ em mídia gerenciada. Os últimos 10 meses cuidando de tráfego pago e operação comercial pra 20–25 clínicas odontológicas em paralelo. Aprendi a programar pra parar de depender de quem nunca entendeu o que eu precisava entregar.
 
 Hoje passo o dia construindo automação séria — n8n, Claude, FastAPI, Next.js — pra resolver fricção real de operação. O que tá aqui no GitHub é o que sobrou depois de rodar em produção.
 
