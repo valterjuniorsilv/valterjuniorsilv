@@ -55,7 +55,7 @@ Background em marketing de verdade (gestor de tráfego, estrategista, head de co
 | **[nodus-agents](https://github.com/valterjuniorsilv/nodus-agents)** | 8 agents Claude Code que rodam a operação real da NodusHub (engineering + commercial) |
 | **[antigravity-lab](https://github.com/valterjuniorsilv/antigravity-lab)** | Go backend laboratory — Clean Architecture + DDD + CQRS reference implementation |
 
-> Mais a caminho: `nodus-agents` (agency-style multi-agent system), `claude-whatsapp-template` (N8N + Evolution + Claude boilerplate), `antigravity-lab` (Go + Clean Arch + DDD).
+> Próximos: `claude-whatsapp-template` (N8N + Evolution + Claude boilerplate), `local-business-prospector` (scraper + qualifier para PMEs locais).
 
 ---
 
