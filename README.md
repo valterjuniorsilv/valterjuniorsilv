@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner_v10.svg" width="100%" alt="Valter Silva" />
+<img src="./banner_v11.svg" width="100%" alt="Valter Silva — AI Automation Engineer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2800&pause=800&color=EDE8DC&center=true&vCenter=true&width=620&lines=AI+Automation+Engineer;n8n+%C2%B7+Claude+%C2%B7+Python+%C2%B7+TypeScript;Marketing+background%2C+now+building+systems;Open+to+remote+roles" alt="Typing SVG" />
 
