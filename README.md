@@ -2,7 +2,7 @@
 
 <img src="./banner_v10.svg" width="100%" alt="Valter Silva" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2800&pause=800&color=EDE8DC&center=true&vCenter=true&width=620&lines=AI+Automation+Engineer;n8n+%C2%B7+Claude+%C2%B7+FastAPI+%C2%B7+Next.js;Marketing+background%2C+now+shipping+systems;Open+to+remote+roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2800&pause=800&color=EDE8DC&center=true&vCenter=true&width=620&lines=AI+Automation+Engineer;n8n+%C2%B7+Claude+%C2%B7+Python+%C2%B7+TypeScript;Marketing+background%2C+now+building+systems;Open+to+remote+roles" alt="Typing SVG" />
 
 </div>
 
@@ -10,27 +10,20 @@
 
 ## About
 
-5+ anos em marketing digital, com R$ 80M+ em mídia gerenciada. Os últimos 10 meses cuidando de tráfego pago e operação comercial pra 20–25 clínicas odontológicas em paralelo. Aprendi a programar pra parar de depender de quem nunca entendeu o que eu precisava entregar.
+Marketing strategist who got tired of waiting on engineers. Started writing production code in 2025 to ship faster than the agencies I worked with. Today I run a small operation that handles paid traffic, AI WhatsApp agents, and CRM for dental clinics in Brazil.
 
-Hoje passo o dia construindo automação séria — n8n, Claude, FastAPI, Next.js — pra resolver fricção real de operação. O que tá aqui no GitHub é o que sobrou depois de rodar em produção.
+The repos here are the patterns I extracted from that operation — opened so other builders can fork instead of reinventing.
 
-**Open to remote roles.** AI Automation Engineer · Workflow Engineer · Backend (Python/Node). PJ ou contractor.
+**Open to remote roles.** AI Automation Engineer · Workflow Engineer · Backend (Python). PJ or contractor.
 
 ---
 
-## Experience
+## What I run in production
 
-**Head de Comunicação & Estratégia · HP Odonto** · jun/2025 – mar/2026 · Remoto
-
-- Liderança de squad de 6 (3 gestores de tráfego, 1 PM, 1 editor, 1 designer)
-- Estrategista direto de 20–25 clínicas em paralelo, faturamento mensal R$30k–R$300k cada
-- Stack: Meta Ads · Google Ads · GA4 · Looker Studio · Kommo · Claude · n8n
-
-**Founder · NodusHub** · mar/2026 – present
-
-- Construí stack de aquisição vertical pra clínicas odontológicas (tráfego + atendente IA WhatsApp + CRM)
-- Stack: Next.js · FastAPI · n8n · Anthropic · Supabase · Evolution API · Docker · Hetzner
-- Side project ativo enquanto procuro vaga remota — operação enxuta, sem conflito com FT
+- **`iris-bot`** — WhatsApp customer service agent on n8n + Claude + Evolution API. Handles inbound leads 24/7 for dental clinics.
+- **`dentist-prospector`** — Multi-niche B2B scraper (Google Maps + email/IG/Ads enrichment + Claude lead scoring).
+- **`Olympus CRM`** — NestJS + React + PostgreSQL + Evolution API. Multi-tenant, custom-built for our agency operation.
+- **14 Next.js apps + 13 Python services** in a private monorepo. Deployed on Hetzner Docker + Vercel.
 
 ---
 
@@ -38,9 +31,9 @@ Hoje passo o dia construindo automação séria — n8n, Claude, FastAPI, Next.j
 
 | Repo | What it is |
 |---|---|
-| **[claude-skills](https://github.com/valterjuniorsilv/claude-skills)** | 13 Claude Code skills shipped from production. Brutal honesty mode, PT-BR copy pipeline, session continuity. |
-| **[claude-whatsapp-template](https://github.com/valterjuniorsilv/claude-whatsapp-template)** | Production WhatsApp bot boilerplate — Claude + n8n + Evolution API + Redis + Postgres |
-| **[local-business-prospector](https://github.com/valterjuniorsilv/local-business-prospector)** | Multi-niche B2B prospector — Google Maps + email/IG/Ads + Claude lead scoring. ~$0.50/1000 leads. |
+| **[claude-skills](https://github.com/valterjuniorsilv/claude-skills)** | 13 Claude Code skills shipped from production — brutal honesty mode, PT-BR copy pipeline, session continuity |
+| **[claude-whatsapp-template](https://github.com/valterjuniorsilv/claude-whatsapp-template)** | Production WhatsApp bot boilerplate — Claude + n8n + Evolution + Redis + Postgres |
+| **[local-business-prospector](https://github.com/valterjuniorsilv/local-business-prospector)** | Multi-niche B2B prospector with Claude scoring — ~$0.50 per 1000 leads |
 | **[nodus-agents](https://github.com/valterjuniorsilv/nodus-agents)** | 8 Claude Code agents structured like a small agency (engineering + commercial) |
 | **[antigravity-lab](https://github.com/valterjuniorsilv/antigravity-lab)** | Go backend reference — Clean Architecture + DDD + CQRS (design phase) |
 
@@ -54,8 +47,18 @@ Hoje passo o dia construindo automação séria — n8n, Claude, FastAPI, Next.j
 
 </div>
 
-Daily: **Python · TypeScript · n8n · Claude API · FastAPI · Next.js · PostgreSQL · Docker**
-Comfortable: **Go · Supabase · Vercel · Hetzner**
+**Daily:** Python · TypeScript · n8n · Anthropic Claude · FastAPI · Next.js · PostgreSQL · Docker · Evolution API
+**Comfortable:** Go (Clean Arch) · Supabase · Vercel · Hetzner Cloud · Meta Ads API · GA4
+
+---
+
+## Background
+
+**Head de Comunicação & Estratégia · HP Odonto** · jun/2025 – mar/2026 · Remote
+Led a squad of 6 (3 traffic managers, 1 PM, 1 video editor, 1 designer) and was the direct strategist for 20–25 dental clinics in parallel. Where I learned how marketing operations actually break in production — which is what pushed me to start automating it in code.
+
+**Founder · NodusHub** · mar/2026 – present
+Built the stack from scratch (Next.js, FastAPI, n8n, Anthropic, Supabase, Evolution API, Docker, Hetzner). Side project while I search for a full-time remote role — operation is lean and won't conflict.
 
 ---
 
