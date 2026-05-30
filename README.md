@@ -14,7 +14,7 @@ Eu faço porque é mais rápido que esperar alguém fazer pra mim 😎
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/valterjuniorsilv">
-    <img src="https://api.iconify.design/mdi:linkedin.svg?color=%23999999" width="22" height="22" alt="LinkedIn"/>
+    <img src="https://api.iconify.design/fa6-brands:linkedin-in.svg?color=%23999999" width="22" height="22" alt="LinkedIn"/>
   </a>
 </p>
 
