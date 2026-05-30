@@ -1,10 +1,34 @@
-### Valter
-
 Eu faço porque é mais rápido que esperar alguém fazer pra mim 😎
 
-→ [leadguard](https://github.com/valterjuniorsilv/leadguard) · [claude-skills](https://github.com/valterjuniorsilv/claude-skills) · [claude-whatsapp-template](https://github.com/valterjuniorsilv/claude-whatsapp-template) · [local-business-prospector](https://github.com/valterjuniorsilv/local-business-prospector) · [agency-as-agents](https://github.com/valterjuniorsilv/agency-as-agents) · [antigravity-lab](https://github.com/valterjuniorsilv/antigravity-lab)
-
-→ [linkedin](https://linkedin.com/in/valterjuniorsilv) · valterjuniorsilv@gmail.com
+<p>
+  <a href="https://instagram.com/valterjuniorsilv">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/instagram/white"/>
+      <img src="https://cdn.simpleicons.org/instagram/black" width="22" height="22" alt="Instagram"/>
+    </picture>
+  </a>
+  &nbsp;
+  <a href="https://tiktok.com/@valterjuniorsilv">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tiktok/white"/>
+      <img src="https://cdn.simpleicons.org/tiktok/black" width="22" height="22" alt="TikTok"/>
+    </picture>
+  </a>
+  &nbsp;
+  <a href="https://youtube.com/@valterjuniorsilv">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/youtube/white"/>
+      <img src="https://cdn.simpleicons.org/youtube/black" width="22" height="22" alt="YouTube"/>
+    </picture>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/valterjuniorsilv">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linkedin/white"/>
+      <img src="https://cdn.simpleicons.org/linkedin/black" width="22" height="22" alt="LinkedIn"/>
+    </picture>
+  </a>
+</p>
 
 ---
 
