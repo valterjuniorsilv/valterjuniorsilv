@@ -2,31 +2,19 @@ Eu faço porque é mais rápido que esperar alguém fazer pra mim 😎
 
 <p>
   <a href="https://instagram.com/valterjuniorsilv">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/instagram/white"/>
-      <img src="https://cdn.simpleicons.org/instagram/black" width="22" height="22" alt="Instagram"/>
-    </picture>
+    <img src="https://api.iconify.design/simple-icons:instagram.svg?color=%23999999" width="22" height="22" alt="Instagram"/>
   </a>
   &nbsp;
   <a href="https://tiktok.com/@valterjuniorsilv">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tiktok/white"/>
-      <img src="https://cdn.simpleicons.org/tiktok/black" width="22" height="22" alt="TikTok"/>
-    </picture>
+    <img src="https://api.iconify.design/simple-icons:tiktok.svg?color=%23999999" width="22" height="22" alt="TikTok"/>
   </a>
   &nbsp;
   <a href="https://youtube.com/@valterjuniorsilv">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/youtube/white"/>
-      <img src="https://cdn.simpleicons.org/youtube/black" width="22" height="22" alt="YouTube"/>
-    </picture>
+    <img src="https://api.iconify.design/simple-icons:youtube.svg?color=%23999999" width="22" height="22" alt="YouTube"/>
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/valterjuniorsilv">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linkedin/white"/>
-      <img src="https://cdn.simpleicons.org/linkedin/black" width="22" height="22" alt="LinkedIn"/>
-    </picture>
+    <img src="https://api.iconify.design/mdi:linkedin.svg?color=%23999999" width="22" height="22" alt="LinkedIn"/>
   </a>
 </p>
 
