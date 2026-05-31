@@ -1,5 +1,7 @@
 Eu faço porque é mais rápido que esperar alguém fazer pra mim 😎
 
+Construo agents e automações com Claude, LangGraph, n8n, Python e TypeScript.
+
 <p align="center">
   <a href="https://instagram.com/valterjuniorsilv">
     <img src="https://api.iconify.design/simple-icons:instagram.svg?color=%23E4405F" width="24" height="24" alt="Instagram"/>
