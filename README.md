@@ -15,19 +15,19 @@ Construo agents e automações.
 
 <p align="center">
   <a href="https://instagram.com/valterjuniorsilv">
-    <img src="https://api.iconify.design/simple-icons:instagram.svg?color=%23E4405F" width="24" height="24" alt="Instagram"/>
+    <img src="https://api.iconify.design/simple-icons:instagram.svg?color=%23ffffff" width="22" height="22" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://tiktok.com/@valterjuniorsilv">
-    <img src="https://api.iconify.design/simple-icons:tiktok.svg?color=%23ffffff" width="24" height="24" alt="TikTok"/>
+    <img src="https://api.iconify.design/simple-icons:tiktok.svg?color=%23ffffff" width="22" height="22" alt="TikTok"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://youtube.com/@valterjuniorsilv">
-    <img src="https://api.iconify.design/simple-icons:youtube.svg?color=%23FF0000" width="24" height="24" alt="YouTube"/>
+    <img src="https://api.iconify.design/simple-icons:youtube.svg?color=%23ffffff" width="22" height="22" alt="YouTube"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/valterjuniorsilv">
-    <img src="https://api.iconify.design/fa6-brands:linkedin-in.svg?color=%230A66C2" width="24" height="24" alt="LinkedIn"/>
+    <img src="https://api.iconify.design/fa6-brands:linkedin-in.svg?color=%23ffffff" width="22" height="22" alt="LinkedIn"/>
   </a>
 </p>
 
