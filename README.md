@@ -1,6 +1,18 @@
 Eu faço porque é mais rápido que esperar alguém fazer pra mim 😎
 
-Construo agents e automações com Claude, LangGraph, n8n, Python e TypeScript.
+Construo agents e automações com:
+
+<p>
+  <img src="https://api.iconify.design/simple-icons:anthropic.svg?color=%23D97757" width="20" height="20" alt="Claude" title="Claude"/>
+  &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:langchain.svg?color=%231C3C3C" width="20" height="20" alt="LangGraph" title="LangGraph"/>
+  &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:n8n.svg?color=%23EA4B71" width="20" height="20" alt="n8n" title="n8n"/>
+  &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:python.svg?color=%233776AB" width="20" height="20" alt="Python" title="Python"/>
+  &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:typescript.svg?color=%233178C6" width="20" height="20" alt="TypeScript" title="TypeScript"/>
+</p>
 
 <p align="center">
   <a href="https://instagram.com/valterjuniorsilv">
