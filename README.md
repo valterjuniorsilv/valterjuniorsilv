@@ -1,17 +1,25 @@
 Eu faço porque é mais rápido que esperar alguém fazer pra mim 😎
 
-Construo agents e automações com:
+Construo agents e automações.
 
 <p>
-  <img src="https://api.iconify.design/simple-icons:anthropic.svg?color=%23D97757" width="20" height="20" alt="Claude" title="Claude"/>
-  &nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons:langchain.svg?color=%231C3C3C" width="20" height="20" alt="LangGraph" title="LangGraph"/>
-  &nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons:n8n.svg?color=%23EA4B71" width="20" height="20" alt="n8n" title="n8n"/>
-  &nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons:python.svg?color=%233776AB" width="20" height="20" alt="Python" title="Python"/>
-  &nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons:typescript.svg?color=%233178C6" width="20" height="20" alt="TypeScript" title="TypeScript"/>
+  <sub>LLMs</sub>&nbsp;·&nbsp;
+  <img src="https://api.iconify.design/logos:anthropic-icon.svg" width="20" height="20" alt="Claude" title="Claude"/>
+  &nbsp;
+  <img src="https://api.iconify.design/logos:openai-icon.svg" width="20" height="20" alt="GPT" title="GPT"/>
+  &nbsp;
+  <img src="https://api.iconify.design/logos:ollama.svg" width="20" height="20" alt="Ollama" title="Ollama"/>
+</p>
+
+<p>
+  <sub>Stack</sub>&nbsp;·&nbsp;
+  <img src="https://api.iconify.design/logos:langchain.svg" width="20" height="20" alt="LangGraph" title="LangGraph (via LangChain)"/>
+  &nbsp;
+  <img src="https://api.iconify.design/logos:n8n.svg" width="20" height="20" alt="n8n" title="n8n"/>
+  &nbsp;
+  <img src="https://api.iconify.design/logos:python.svg" width="20" height="20" alt="Python" title="Python"/>
+  &nbsp;
+  <img src="https://api.iconify.design/logos:typescript-icon.svg" width="20" height="20" alt="TypeScript" title="TypeScript"/>
 </p>
 
 <p align="center">
