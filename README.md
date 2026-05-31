@@ -1,17 +1,15 @@
 Eu faço porque é mais rápido que esperar alguém fazer pra mim 😎
 
-Construo agents e automações.
+Construo agents com&nbsp;
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logoColor=white" alt="Claude"/>
+<img src="https://img.shields.io/badge/GPT-10A37F?style=flat-square&logoColor=white" alt="GPT"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white" alt="Ollama"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logoColor=white" alt="Claude"/>
-  <img src="https://img.shields.io/badge/GPT-10A37F?style=flat-square&logoColor=white" alt="GPT"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white" alt="Ollama"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logoColor=white" alt="n8n"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logoColor=white" alt="TypeScript"/>
-</p>
+Rodando em&nbsp;
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logoColor=white" alt="n8n"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logoColor=white" alt="TypeScript"/>
 
 <p align="center">
   <a href="https://instagram.com/valterjuniorsilv">
