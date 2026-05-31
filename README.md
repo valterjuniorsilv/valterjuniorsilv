@@ -13,19 +13,31 @@ Rodando em&nbsp;
 
 <p align="center">
   <a href="https://instagram.com/valterjuniorsilv">
-    <img src="https://api.iconify.design/simple-icons:instagram.svg?color=%23ffffff" width="22" height="22" alt="Instagram"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:instagram.svg?color=%23ffffff"/>
+      <img src="https://api.iconify.design/simple-icons:instagram.svg?color=%23000000" width="22" height="22" alt="Instagram"/>
+    </picture>
   </a>
   &nbsp;&nbsp;
   <a href="https://tiktok.com/@valterjuniorsilv">
-    <img src="https://api.iconify.design/simple-icons:tiktok.svg?color=%23ffffff" width="22" height="22" alt="TikTok"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:tiktok.svg?color=%23ffffff"/>
+      <img src="https://api.iconify.design/simple-icons:tiktok.svg?color=%23000000" width="22" height="22" alt="TikTok"/>
+    </picture>
   </a>
   &nbsp;&nbsp;
   <a href="https://youtube.com/@valterjuniorsilv">
-    <img src="https://api.iconify.design/simple-icons:youtube.svg?color=%23ffffff" width="22" height="22" alt="YouTube"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:youtube.svg?color=%23ffffff"/>
+      <img src="https://api.iconify.design/simple-icons:youtube.svg?color=%23000000" width="22" height="22" alt="YouTube"/>
+    </picture>
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/valterjuniorsilv">
-    <img src="https://api.iconify.design/fa6-brands:linkedin-in.svg?color=%23ffffff" width="22" height="22" alt="LinkedIn"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/fa6-brands:linkedin-in.svg?color=%23ffffff"/>
+      <img src="https://api.iconify.design/fa6-brands:linkedin-in.svg?color=%23000000" width="22" height="22" alt="LinkedIn"/>
+    </picture>
   </a>
 </p>
 
